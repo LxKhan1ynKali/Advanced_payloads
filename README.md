@@ -51,3 +51,34 @@ https://chat.whatsapp.com/JkY28k6CBfiJy5swwgtG36
 
 ⚠️ **Any external claim of authorship is false and void.**
 
+---
+
+## ☠️ WARNING — NON-ASSOCIATION & CLAIM BLOCK
+
+🚨 **READ CAREFULLY** 🚨
+
+This repository is **NOT affiliated, partnered, inspired by, or connected in any form** with the following:
+
+- **@claysecure27**
+- **Clay Tech Group / Clay Tech Solution**  
+  https://t.me/claytechsolution
+- https://t.me/iamthunderguy
+
+⚠️ Any attempt by the above individuals or groups to:
+- claim authorship  
+- imply collaboration  
+- rebrand or mirror this work  
+- associate themselves with this repository  
+
+is **FALSE, UNAUTHORIZED, and INVALID**.
+
+🧠 This project is **independently created, controlled, and maintained solely by KhaninKali**.  
+🩸 No external entity has permission to reference, reuse, represent, or speak for this work.
+
+🚫 Boundaries are final.  
+🚫 Claims by others are void.  
+🚫 Misrepresentation will be publicly rejected.
+
+---
+
+👑 **Ownership stands. Attribution is locked.**
