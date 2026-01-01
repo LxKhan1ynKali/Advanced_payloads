@@ -1,4 +1,4 @@
-# ⚔️ Advanced Payload Research Repository
+s# ⚔️ Advanced Payload Research Repository
 
 ## 🔒 Authorship & Ownership — FINAL
 
@@ -59,10 +59,7 @@ https://chat.whatsapp.com/JkY28k6CBfiJy5swwgtG36
 
 This repository is **NOT affiliated, partnered, inspired by, or connected in any form** with the following:
 
-- **@claysecure27**
-- **Clay Tech Group / Clay Tech Solution**  
-  https://t.me/claytechsolution
-- https://t.me/iamthunderguy
+- will be Tell later
 
 ⚠️ Any attempt by the above individuals or groups to:
 - claim authorship  
